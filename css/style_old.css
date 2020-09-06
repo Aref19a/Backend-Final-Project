@@ -1,0 +1,54 @@
+/*
+	* @file: 	style.css
+	* 
+	* @author: 	Raghav V. Sampangi (raghav@cs.dal.ca)
+	* 
+	* @desc:	This file styles the list in its current form.
+	* 
+	* @notes:	As a student working on A4 and A5 in CSCI 2170, you are allowed to edit this file. 
+	* 			When you edit, include block comments to summarize changes. 
+	* 			Clearly highlight the styles and how they impact various sections of the website.
+*/
+
+header {
+	background-color: purple;
+	color: orange;
+	height: 100px;
+	line-height: 100px;
+	vertical-align: middle;
+	padding: 0 10px;
+}
+
+main {
+	min-height: 400px;
+}
+
+form input {
+	padding:4px;
+	border-radius: 5px;
+	min-width: 200px;
+	display: block;
+	margin: 10px 0px;
+}
+
+.complete {
+	text-decoration: line-through;
+	font-style: italic;
+}
+
+footer {
+	background-color: green;
+	color: white;
+	height: 100px;
+	line-height: 100px;
+	vertical-align: middle;
+	padding: 0 10px;
+}
+
+.error{
+	background: #F44336;
+    width: 100%;
+    max-width: 300px;
+    padding: 4px;
+    color: #fff;
+}

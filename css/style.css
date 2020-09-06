@@ -1,0 +1,48 @@
+main {
+	min-height: 300px;
+}
+
+.footer {
+	border-top: 1px solid Gold;
+}
+
+img {
+	border: 1px solid black;
+}
+
+.login{
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	
+}
+
+.error{
+	color:red;
+	font-weight: bold;
+}
+
+.marginized{
+	margin-top: 20px;
+}
+
+input.list_item_part {
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+a.masdone {
+    padding: 2px;
+    background: #4CAF50;
+    color: #fff;
+}
+
+a.masndone {
+       padding: 2px;
+    background: #F44336;
+    color: #fff;
+}	
+
+.hidden{
+	display: none;
+}
